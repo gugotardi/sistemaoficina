@@ -1,0 +1,4 @@
+Para o correto funcionamento do programa, faça os seguintes processos:
+
+- Coloque a pasta "Agenda" no Drive C
+- Instale o banco de dados Interbase ou Firebird

@@ -1,0 +1,25 @@
+unit Unotes;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TFmnotes = class(TForm)
+    Memo: TMemo;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Fmnotes: TFmnotes;
+
+implementation
+uses URotinasGerais, Unprincipal;
+{$R *.dfm}
+
+end.
